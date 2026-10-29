@@ -13,7 +13,7 @@ Berikut daftar tugas praktikum dan Ujian Tengah Semester (UTS) mata kuliah Mobil
 
 | No. | Tanggal | Praktikum ke- | Topik / Modul | Laporan | Repository |
 |:--:|:--:|:--:|---|:--:|---|
-| 1 | 03-09-2026 | 1 | Modul 1 — Pengenalan Mobile Programming dan setup lingkungan | — | [Program 1](https://github.com/aaaaji/Modul-1-Mobile-Programming-Praktikum) |
+| 1 | 03-09-2026 | 1 | Modul 1 — Pengenalan Mobile Programming dan setup lingkungan | — | [Program ](https://github.com/aaaaji/Modul-1-Mobile-Programming-Praktikum) |
 | 2 | 03-09-2026 | 2 | Modul 2 — Widget Row dan Column | — | [Program ](https://github.com/aaaaji/Modul-2-Mobile-Programming-Praktikum) |
 | 3 | 10-09-2026 | 3 | Modul 3 — Pengaturan layout Row dan Column | — | [Program ](https://github.com/aaaaji/Modul-3-Mobile-Programming-Praktikum) |
 | 4 | 10-09-2026 | 4 | Modul 4 — Widget Flexible dan Expanded | — | [Program ](https://github.com/aaaaji/Modul-4-Mobile-Programming-Praktikum) |
