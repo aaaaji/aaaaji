@@ -7,7 +7,7 @@
 - **Kelas Praktikum:** F
 - **Mata Kuliah:** Mobile Programming
 
-## 📚 Daftar Praktikum dan Ujian Tengah Semester
+## 📚 Daftar Isi
 
 Berikut daftar tugas praktikum dan Ujian Tengah Semester (UTS) mata kuliah Mobile Programming. Tanggal, pertemuan praktikum, dan tautan laporan dapat dilengkapi sesuai catatan perkuliahan.
 
