@@ -22,8 +22,8 @@ Berikut daftar tugas praktikum dan Ujian Tengah Semester (UTS) mata kuliah Mobil
 | 7 | 24-09-2026 | 7 | Modul 7 — Navigasi antarlayar (MaterialPageRoute) | — | [Program ](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul_7) |
 | 8 | 24-09-2026 | 8 | Modul 8 — Navigasi menggunakan Named Route | — | [Program ](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul_8) |
 | 9 | 01-10-2026 | 9 | Modul 9 — StatefulWidget dan pengelolaan state | — | [Program ](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul_9) |
-| 10 | 08-10-2026 | 10 | Modul 10 — Desain GUI dan pengolahan data game | — | [Program ](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul_10) |
-| 11 | 15-10-2026 | 11 | Manajemen State dengan GetX | — | [Program ](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul%2011) |
+| 10 | 08-10-2026 | 10 | Modul 10 — Desain GUI dan pengolahan data game | [Laporan](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/blob/main/Modul_10/gameapp/Laporan/laporan%20praktikum%20modul%2010.pdf) | [Program](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul_10) |
+| 11 | 15-10-2026 | 11 | Manajemen State dengan GetX | [Laporan](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/blob/main/Modul%2011/laporan/laporan%20praktikum%20modul%2011.pdf) | [Program](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul%2011) |
 | 12 | 25-10-2026 | UTS | Ujian Tengah Semester — GameAtlas (GUI katalog game Flutter, navigasi, dan data JSON lokal) | [Laporan](https://github.com/aaaaji/Teman-Memasak-Flutter/blob/main/laporan/Laporan_UTS_Teman_Memasak.pdf) | [Program](https://github.com/aaaaji/GameAtlas-Flutter) |
 
 > **Catatan:** Tanggal, nomor pertemuan, dan tautan laporan yang belum tersedia dapat dilengkapi sesuai catatan praktikum kelas F.
