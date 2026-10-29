@@ -24,6 +24,6 @@ Berikut daftar tugas praktikum dan Ujian Tengah Semester (UTS) mata kuliah Mobil
 | 9 | 01-10-2026 | 9 | Modul 9 — StatefulWidget dan pengelolaan state | — | [Program Modul 9](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul_9) |
 | 10 | 08-10-2026 | 10 | Modul 10 — Desain GUI dan pengolahan data game | — | [Program Modul 10](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul_10) |
 | 11 | 15-10-2026 | 11 | Manajemen State dengan GetX | — | [Program Modul 11](https://github.com/aaaaji/Modul-6-Mobile-Programming-Praktikum/tree/main/Modul%2011) |
-| 12 | 25-10-2026 | UTS | Ujian Tengah Semester — GameAtlas (GUI katalog game Flutter, navigasi, dan data JSON lokal) | [Laporan](laporan/Laporan_UTS_Teman_Memasak.pdf) | [Program UTS — GameAtlas-Flutter](https://github.com/aaaaji/GameAtlas-Flutter) |
+| 12 | 25-10-2026 | UTS | Ujian Tengah Semester — GameAtlas (GUI katalog game Flutter, navigasi, dan data JSON lokal) | [Laporan](laporan/Laporan_UTS_Teman_Memasak.pdf) | [Program](https://github.com/aaaaji/GameAtlas-Flutter) |
 
 > **Catatan:** Tanggal, nomor pertemuan, dan tautan laporan yang belum tersedia dapat dilengkapi sesuai catatan praktikum kelas F.
